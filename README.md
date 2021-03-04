@@ -15,6 +15,15 @@
 ## Descrição
 Este material é uma iniciativa independente para auxiliar os alunos, visando facilitar o acesso e o acompanhamento das atividades ministradas via **Google Meet**. Portanto, **não se caracteriza como material oficial da instituição.** Todo o desenvolvimento de códigos e/ou materiais apresentados via **Google Meet** serão disponibilizados neste repositório.
 
+## Bibliografia Recomendada
+* [**Python (Use a Cabeça)**](https://learning.oreilly.com/library/view/use-a-cabeca/9788576087434)
+* [Estatística Prática para Cientistas de Dados](https://learning.oreilly.com/library/view/estatistica-pratica-para/9788550806037/)
+* [Análise de Dados (Use a Cabeça)](https://learning.oreilly.com/library/view/use-a-cabeca/9788576084686)
+* [Data Science Para Negócios](https://learning.oreilly.com/library/view/data-science-para/9788576089728)
+* [Data Science do Zero](https://learning.oreilly.com/library/view/data-science-do/9788576089988)
+* [Learn Data Analysis with Python: Lessons in Coding](https://learning.oreilly.com/library/view/learn-data-analysis/9781484234860/)
+* [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
+
 ## Plataforma de Colaboração e Desenvolvimento (Padrão da Disciplina)
 * [Google Colab](https://colab.research.google.com/) - Desenvolvimento *on-line* para Ciência de Dados
 
